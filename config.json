@@ -5,7 +5,7 @@
             "server_name": "matrix.smyhw.online"
         }
     },
-    "permalink_prefix": "https://im.smyhw.online:8080",
+    "permalink_prefix": "https://im.smyhw.online",
     "disable_custom_urls": true,
     "disable_guests": false,
     "disable_login_language_selector": false,
