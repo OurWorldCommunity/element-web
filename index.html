@@ -75,6 +75,12 @@
 
   </head>
   <body style="height: 100%; margin: 0;">
+    <script>
+	<!-- 下下策( -->
+	if(localStorage.getItem('mx_local_settings')==null){
+		localStorage.setItem('mx_local_settings','{"language":"zh-hans"}');
+	}
+	</script>
     <noscript>Sorry, Element requires JavaScript to be enabled.</noscript> <!-- TODO: Translate this? -->
     <section id="matrixchat" style="height: 100%;" class="notranslate"></section>
     <script src="bundles/c94d364295d7008a924e/bundle.js"></script>
