@@ -41,8 +41,8 @@
    "setting_defaults": {
       "UIFeature.feedback": false,
       "UIFeature.identityServer": false,
-      "UIFeature.registration": false,
-      "UIFeature.deactivate": false,
-      "UIFeature.passwordReset": false
+      "UIFeature.registration": true,
+      "UIFeature.deactivate": true,
+      "UIFeature.passwordReset": true
    }
 }
