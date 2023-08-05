@@ -31,8 +31,7 @@
       "auth_footer_links": [
          {"text": "咱的博客", "url": "https://blog.smyhw.online/"},
          {"text": "手册", "url": "https://wiki.smyhw.online/"},
-         {"text": "用户中心", "url": "https://mcskin.smyhw.online/"},
-         {"text": "用户中心", "url": "https://mcskin.smyhw.online/"}
+         {"text": "玩家数据", "url": "https://players.smyhw.online/"}
       ]
    },
    "embedded_pages": {
